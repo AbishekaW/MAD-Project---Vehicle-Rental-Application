@@ -1,6 +1,6 @@
 # MAD-Project_Vehicle-Rental-Application[RIYA-SAKA]
 
-This project was done for the academic purposes of the Mobile Application Development(MAD) module (Year 2 Semester 2 )at the Sri Lanka Institute of Information Technology.
+**This project was done for the academic purposes of the Mobile Application Development(MAD) module (Year 2 Semester 2 )at the Sri Lanka Institute of Information Technology.**
 
 Finding a suitable location to rent a car for those who don't own one is one of the biggest challenges we currently face. Another issue caused by this transportation issue is falling victim to fraud and fake payments because it is impossible to estimate the cost of travel or the cost of renting a car for a few days. When choosing a mode of transportation from an unreliable source, we will have to accept whatever the rider says as payment because doing so would result in needless costs and a vehicle that is not pleasant enough for the trip.
 
